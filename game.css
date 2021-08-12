@@ -1,0 +1,77 @@
+body
+{
+	text-align: center;
+	background-image: rgb(231, 0, 0);
+	background-color: midnightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	color: white;
+	width: 60%;
+}
+#word_display
+{	color: white;
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#s{
+
+opacity: 50;
+ position: center;
+ width: 50;
+}
+
+.formcontrol{
+	width: 20%;
+
+}
+
+
+
+.gradient-custom-bttn {
+	/* fallback for old browsers */
+	background: #667eea;
+  
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(to top, rgba(102, 126, 234, 1), rgba(118, 75, 162, 1));
+  
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(to top, rgba(102, 126, 234, 1), rgba(118, 75, 162, 1))
+}
+
+#bttn{
+border-radius: 50px;
+color: white;
+
+}
+
+.text{
+
+color: white;
+font-family: 'Special Elite', cursive;
+}
